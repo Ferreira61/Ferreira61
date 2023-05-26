@@ -1,7 +1,9 @@
 <div align="center">
+<div align="center">
 
-
-  <h1>Hi, I'm <strong>Ferreira!</strong></h1>
+<div align="center">
+  <img alt="Hello-World!" src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=32&duration=4000&color=808080&center=true&lines=Hi,+I'm+Ferreira!" > 
+</div>
 
   <h3>About:</h3>
   <ul>
@@ -11,9 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferreira61&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferreira61&layout=compact&langs_count=16&theme=dark"/>
   
- <div> <a href="http://www.github.com/brseghese"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferreira61&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  
-  <img height="120em" src="https://media.discordapp.net/attachments/1108028713792176282/1108243361724383333/snswfw35awe.png?width=713&height=475" alt="Banner"> </div>
+ <div> <a href="http://www.github.com/brseghese"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferreira61&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
   
   <h2> • 🔮 <strong>Studying Languages:</strong></h2>
   <p align="center">
@@ -34,3 +34,4 @@
     </a>
   </p>
 </div>
+
