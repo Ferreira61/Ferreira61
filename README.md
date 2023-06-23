@@ -1,29 +1,36 @@
-<div align="center">
-<div align="center">
 
-<div align="center">
-  <img alt="Hello-World!" src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=32&duration=4000&color=808080&center=true&lines=Hi,+I'm+Ferreira!" > 
+
+<div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A70808&center=true&vCenter=true&width=970&lines=Bem+vindo(a);Me+chamo+Carlos+Eduardo;Desenvolvedor+Back-End;Siga+para+acompanhar+os+pr%C3%B3ximos+projetos)](https://git.io/typing-svg)
+
 </div>
 
-  <h3>About:</h3>
-  <ul>
-    <li> • 📚 Student <strong>Software Engineering</strong> & <strong>CyberSecurity</strong></li>
-  </ul>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferreira61&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferreira61&layout=compact&langs_count=16&theme=dark"/>
-  
- <div> <a href="http://www.github.com/brseghese"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferreira61&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
-  
-  <h2> • 🔮 <strong>Studying:</strong></h2>
-  <p align="center">
+<p align="left">
+
+<hr>
+
+  Olá. Meu nome é Carlos Eduardo, tenho 22 anos e atualmente estou me formando em Análise e desenvolvimento de Sistemas. Comecei meus estudos em 2020 mas tive que parar por motivos pessoais, e retornei esse ano, em janeiro.<br/><br/>
+
+Em 2022 decidi ingressar na faculdade e me aprofundar nos estudos de back-end e cybersecurity, onde conseguir adiquirir habilidades sólidas em python.
+</p>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A70808&center=true&vCenter=true&width=970&lines=Tools+and+Skills)](https://git.io/typing-svg)
+
+<p align="center">
     <img height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img height="30" width="40" alt="linux-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   </p>
+  
+  </div>
 
-  <h2>Social Media</h2>
+</hr>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A70808&center=true&vCenter=true&width=970&lines=Social+media)](https://git.io/typing-svg)
   <p align="center">
     <a href="https://www.linkedin.com/in/carlos-eduardo-176261277/">
       <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-00427E?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -34,3 +41,5 @@
   </p>
 </div>
 
+ <img src="https://profile-counter.glitch.me/Ferreira61/count.svg" />
+<hr>
