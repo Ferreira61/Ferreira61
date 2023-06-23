@@ -2,7 +2,7 @@
 
 <div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=A70808&center=true&vCenter=true&width=970&lines=Bem+vindo(a);Me+chamo+Carlos+Eduardo;Desenvolvedor+Back-End;Siga+para+acompanhar+os+pr%C3%B3ximos+projetos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=A70808&center=true&vCenter=true&width=970&lines=Welcome;My+name+is+Carlos+Eduardo;Developer+Back-End;Data+Analyst)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,9 +11,8 @@
 
 <hr>
 
-  Olá. Meu nome é Carlos Eduardo, tenho 22 anos e atualmente estou me formando em Análise e desenvolvimento de Sistemas. Comecei meus estudos em 2020 mas tive que parar por motivos pessoais, e retornei esse ano, em janeiro.<br/><br/>
+  Hello. My name is Carlos Eduardo, I'm currently majoring in Systems Analysis and Development. I have a focus of studies in **Python**, **Data Analysts** and **CyberSecurity**<br/><br/>
 
-Em 2022 decidi ingressar na faculdade e me aprofundar nos estudos de back-end e cybersecurity, onde conseguir adiquirir habilidades sólidas em python.
 </p>
 
 
@@ -29,6 +28,9 @@ Em 2022 decidi ingressar na faculdade e me aprofundar nos estudos de back-end e 
   </div>
 
 </hr>
+
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferreira61&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="Ferreira61" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferreira61&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="Ferreira61" align = "center"/></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A70808&center=true&vCenter=true&width=970&lines=Social+media)](https://git.io/typing-svg)
   <p align="center">
