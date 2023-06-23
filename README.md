@@ -2,7 +2,7 @@
 
 <div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A70808&center=true&vCenter=true&width=970&lines=Bem+vindo(a);Me+chamo+Carlos+Eduardo;Desenvolvedor+Back-End;Siga+para+acompanhar+os+pr%C3%B3ximos+projetos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=A70808&center=true&vCenter=true&width=970&lines=Bem+vindo(a);Me+chamo+Carlos+Eduardo;Desenvolvedor+Back-End;Siga+para+acompanhar+os+pr%C3%B3ximos+projetos)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@ Em 2022 decidi ingressar na faculdade e me aprofundar nos estudos de back-end e 
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A70808&center=true&vCenter=true&width=970&lines=Tools+and+Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=A70808&center=true&vCenter=true&width=970&lines=Tools+and+Skills)](https://git.io/typing-svg)
 
 <p align="center">
     <img height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -30,7 +30,7 @@ Em 2022 decidi ingressar na faculdade e me aprofundar nos estudos de back-end e 
 
 </hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A70808&center=true&vCenter=true&width=970&lines=Social+media)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A70808&center=true&vCenter=true&width=970&lines=Social+media)](https://git.io/typing-svg)
   <p align="center">
     <a href="https://www.linkedin.com/in/carlos-eduardo-176261277/">
       <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-00427E?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -43,3 +43,6 @@ Em 2022 decidi ingressar na faculdade e me aprofundar nos estudos de back-end e 
 
  <img src="https://profile-counter.glitch.me/Ferreira61/count.svg" />
 <hr>
+
+<p>
+ 
